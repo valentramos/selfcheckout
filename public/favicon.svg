@@ -1,9 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="116.803" height="31.011" viewBox="0 0 116.803 31.011">
-  <g id="Group_46" data-name="Group 46" transform="translate(0 0)">
-    <path id="Path_1974" data-name="Path 1974" d="M629.836,0l-5.478,31.011H631.6l1.992-11.227h12.45l1-5.614h-12.5l1.494-8.375h14.442l1-5.795Z" transform="translate(-597.735)" fill="#013b79"/>
-    <path id="Path_1975" data-name="Path 1975" d="M1143.373,6.61h.136l1.947,12.223h-8.285Zm-3.3-6.61-16.705,31.011h7.7l3.35-6.564h11.816l1.087,6.564h7.651L1149.168,0Z" transform="translate(-1075.463 0)" fill="#013b79"/>
-    <path id="Path_1976" data-name="Path 1976" d="M2012.02,0l-3.486,19.693h-.136L2000.249,0h-8.24l-5.478,31.011h6.655l3.577-20.327h.136l8.466,20.327h7.787L2018.629,0Z" transform="translate(-1901.826)" fill="#013b79"/>
-    <path id="Path_1977" data-name="Path 1977" d="M1.394,315.37,0,322.069H23.851l1.41-6.7Z" transform="translate(0 -301.923)" fill="#08e2f2"/>
-    <path id="Path_1978" data-name="Path 1978" d="M143.817,144.185,136.571,144l6.346-22.513,7.269.1Z" transform="translate(-130.748 -116.305)" fill="#08e2f2"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="223.876" height="38" viewBox="0 0 223.876 38">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_59" data-name="Rectangle 59" width="24.215" height="24.215" fill="#fdc018"/>
+    </clipPath>
+  </defs>
+  <g id="Group_34" data-name="Group 34" transform="translate(-38 -74.643)">
+    <text id="Selfcheckout" transform="translate(72.876 106.643)" fill="#1f1f1f" font-size="30" font-family="AllumiStd-ExtraBold, Allumi Std" font-weight="800"><tspan x="0" y="0">Selfcheckout</tspan></text>
+    <g id="Group_30" data-name="Group 30" transform="translate(38 81.535)">
+      <rect id="Rectangle_57" data-name="Rectangle 57" width="7.85" height="8.512" transform="translate(0 7.85)" fill="#fdc018"/>
+      <rect id="Rectangle_58" data-name="Rectangle 58" width="7.853" height="8.512" transform="translate(16.362 7.85)" fill="#fdc018"/>
+      <g id="Group_28" data-name="Group 28">
+        <g id="Group_27" data-name="Group 27" clip-path="url(#clip-path)">
+          <path id="Path_58" data-name="Path 58" d="M465.711,0h0a7.85,7.85,0,0,1-7.85,7.85H457.2V0Z" transform="translate(-449.349)" fill="#fdc018"/>
+          <path id="Path_59" data-name="Path 59" d="M465.053,952.992h.659v7.854H457.2a7.854,7.854,0,0,1,7.854-7.854" transform="translate(-449.35 -936.63)" fill="#fdc018"/>
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
